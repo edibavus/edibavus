@@ -1,6 +1,7 @@
 # whoami
 
-Independent Validator 
+*Independent Validator* 
+
 I know it’s hard
 but it’s worth it 
 please never quit 
